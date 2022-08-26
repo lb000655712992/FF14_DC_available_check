@@ -12,5 +12,5 @@ https://steam.oxxostudio.tw/category/python/example/line-developer.html
 最後打開main.py修改"使用者自行調製"部分參數
 並執行即可
 
-##完成畫面
+## 完成畫面
 放置於巴哈
