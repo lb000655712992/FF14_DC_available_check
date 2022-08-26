@@ -14,3 +14,4 @@ https://steam.oxxostudio.tw/category/python/example/line-developer.html
 
 ## 完成畫面
 放置於巴哈
+https://forum.gamer.com.tw/C.php?bsn=17608&snA=20562&tnum=1
